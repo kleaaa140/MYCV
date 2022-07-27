@@ -1,0 +1,229 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #F5F5F5;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-size: 50px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.h2{
+  font-size: 20px;
+  color: #66BFBF;
+}
+
+h2{
+  font-weight: normal;
+  left:30px;
+  color:#11999E;
+}
+
+.pro{
+  color: #66BFBF;
+}
+
+div {
+margin-top: 100px;
+position: relative;
+top: 30px;
+
+
+}
+
+.pro{
+  text-decoration:line-through;
+}
+
+.bottom-cloud{
+  position: relative;
+  bottom: 250px;
+
+}
+
+.top-cloud{
+  position: relative;
+  bottom: 430px;
+  left: 600px;
+}
+
+.mountain{
+  position: relative;
+  right: 150px;
+  top: 50px;
+}
+
+.skill-row{
+  display: inline-block;
+  /* margin-bottom: -40px; */
+  margin-right: -80px;
+
+
+}
+
+.skill-description{
+  align-items: center;
+}
+
+.brief{
+  color:#11999E;
+}
+
+.photoshop{
+  position: relative;
+  bottom: 150px;
+  left: -220px;
+}
+
+.office{
+  position: relative;
+  bottom: 130px;
+  left: -40px;
+  padding-left: 30px;
+}
+
+.html{
+  position: relative;
+  bottom: 180px;
+  left: 0px;
+  padding-right: 30px;
+  padding-left: 50px;
+}
+
+.adjust-width {
+  position: relative;
+  left: 110px;
+  bottom: 270px;
+  color: #11999E;
+}
+
+.css-description {
+  position: relative;
+  left: 390px;
+  bottom: 360px;
+  color: #11999E;
+}
+
+.office-description{
+  position: relative;
+  bottom: 400px;
+  right: 160px;
+  color:#11999E;
+}
+
+.photoshop-description{
+  position: relative;
+  bottom: 440px;
+  right: 440px;
+  color:#11999E;
+}
+
+.css{
+  position: relative;
+  bottom: 150px;
+  left:100px;
+  right: -100px;
+  margin-left: 150px;
+}
+
+
+.hr2{
+  position: relative;
+  top: 20px;
+}
+
+.footer-link{
+  position: relative;
+  bottom: 30px;
+  right: 10px;
+}
+
+.mytag{
+
+    position: relative;
+    bottom: 30px;
+  }
+
+.python-txt{
+  position: relative;
+  bottom: 240px;
+  right: 140px;
+  color:#11999E;
+}
+
+.photoshop-txt{
+  position: relative;
+  right: 440px;
+  bottom: 200px;
+  color:#11999E;
+}
+
+.html-txt{
+  position: relative;
+  left: 110px;
+  bottom: 280px;
+  color:#11999E;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.css-txt{
+  position: relative;
+  left: 390px;
+  bottom: 370px;
+  color:#11999E;
+}
+
+.footer-link{
+  color: #11999E;
+  position: relative;
+  left: 10px;
+}
+
+.my-skills{
+  color: #11999E;
+}
+
+.contact-me{
+  position: relative;
+  left: 30px;
+  color:#11999E;
+}
+
+.bottom-container{
+  left: 30px;
+  background-color: #66BFBF;
+  color: white;
+  padding-top: 50px;
+}
+
+
+button{
+background-color: #89CFF0;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration:none;
+display: inline-block;
+font-size: 16px;
+border-radius: 20px;
+font-weight: normal;
+}
+
+button:hover{
+background-color: #ADD8E6;
+border: none;
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 10px;
+box-shadow: 2px 5px #888888;
+}
